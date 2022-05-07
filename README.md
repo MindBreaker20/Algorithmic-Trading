@@ -1,5 +1,5 @@
 # Algorithmic-Trading
-
+!!!!!!!!!! UNDER CONSTRUCTION !!!!!!!!!!
 ## Trend Following
 - simple moving average crossover strategy
 ## Risk Management
